@@ -2,14 +2,16 @@
 Repository for teaching GitHub flow.
 
 Instructions for students:
-1. Create a new branch for this README.md file.
-    Edit your respective slot in the section and place a unique student code.
-    Create your code from the last 4 digits of your ID number.
+1.  Create your code from the last 4 digits of your ID number.
     Split them into two numbers and multiply.
     Example:
     ID No: 11811234
     Code = 12 * 34 = 408
-2. Submit a pull request to merge your branch into the main code.
+2. Edit this file
+   a. Fork this repository
+   b. Edit the README.md file.
+       Edit your respective slot in the section and place a unique student code.
+3. Submit a pull request to merge your changes into the main file.
 
 EQ3
 1. 
