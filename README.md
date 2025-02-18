@@ -17,7 +17,7 @@ Instructions for students:
 EQ3
 1. 
 2.
-3.
+3. 3321
 7.
 5.
 6.
