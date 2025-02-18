@@ -16,8 +16,8 @@ Instructions for students:
 EQ3
 1. 
 2.
-3.
-4.
+3. 3321
+4. Cid= 58 * 81
 5.
 6.
 7. 2765
