@@ -3,16 +3,15 @@ Repository for teaching GitHub flow.
 
 Instructions for students:
 1.  Create your code from the last 4 digits of your ID number.
-    Split them into two numbers and multiply.
-    Example:
-    ID No: 11811234
-    Code = 12 * 34 = 408
+    a. Split them into two numbers and multiply.
+        Example: ID No: 11811234
+        Code = 12 * 34 = 408
 2. Edit this file
    a. Fork this repository
    b. Edit the README.md file.
        Edit your respective slot in the section (check Canvas roll call) and place a unique student code.
    c. Commit changes
-4. Submit a pull request to merge your changes into the main file.
+3. Submit a pull request to merge your changes into the main file.
 
 EQ3
 1. 
