@@ -10,13 +10,14 @@ Instructions for students:
 2. Edit this file
    a. Fork this repository
    b. Edit the README.md file.
-       Edit your respective slot in the section and place a unique student code.
-3. Submit a pull request to merge your changes into the main file.
+       Edit your respective slot in the section (check Canvas roll call) and place a unique student code.
+   c. Commit changes
+4. Submit a pull request to merge your changes into the main file.
 
 EQ3
 1. 
 2.
-3.
+3. 3321
 7.
 5.
 6.
@@ -24,7 +25,7 @@ EQ3
 8. 1470
 9.
 10.
-11.
+11. 5402
 12.
 13.
 14.
@@ -35,7 +36,7 @@ EQ3
 19.
 20.
 21.
-22.
+22. 1170
 23.
 24.
 25.
@@ -54,6 +55,11 @@ EQ3
 38.
 39.
 40.
+41. 2303
+42.
+43.
+44.
+45.
 
 EQ4
 1.
